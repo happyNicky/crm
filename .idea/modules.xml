@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+<<<<<<< HEAD
+      <module fileurl="file://$PROJECT_DIR$/.idea/customerRelationshipManagement.iml" filepath="$PROJECT_DIR$/.idea/customerRelationshipManagement.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/.idea/dcrmP.iml" filepath="$PROJECT_DIR$/.idea/dcrmP.iml" />
+>>>>>>> a119270 (restarted the app and connected it to mysql database)
+    </modules>
+  </component>
+</project>
