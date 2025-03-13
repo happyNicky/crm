@@ -8,4 +8,8 @@ urlpatterns=[
     path('admin/',admin.site.urls),
     path('logout/',views.logout_user,name='logout'),
     path('register/',views.register_user,name='register'),
+    path('record/<int:pk>',views.record_user,name='record'),
+    path('delete/<int:pk>', views.delete_record, name='delete'),
+    path('addRecord/', views.add_record, name='add_record'),
+
 ]
